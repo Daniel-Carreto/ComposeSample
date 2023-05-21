@@ -62,7 +62,12 @@ class MainActivity : ComponentActivity() {
                     //MyDialog()
                     //MyCustomDialog()
                     //MyCustomDialogAdvance()
-                    MyCustomRadioDialogAdvance()
+                    //MyCustomRadioDialogAdvance()
+                    //SimpleRecyclerView()
+                    //SuperHeroView()
+                    //SuperHeroGridView()
+                    //SuperHeroControlView()
+                    SuperHeroStickyView()
                 }
             }
         }
