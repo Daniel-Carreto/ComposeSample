@@ -67,7 +67,8 @@ class MainActivity : ComponentActivity() {
                     //SuperHeroView()
                     //SuperHeroGridView()
                     //SuperHeroControlView()
-                    SuperHeroStickyView()
+                    //SuperHeroStickyView()
+                    MyScaffoldExample()
                 }
             }
         }
